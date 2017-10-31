@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Attic1514</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://pubsubhubbub.appspot.com" rel="hub"/>
+  <link href="http://attic1514.github.io/"/>
+  <updated>2017-10-30T12:58:24.382Z</updated>
+  <id>http://attic1514.github.io/</id>
+  
+  <author>
+    <name>attic1514</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notionの手書き入力で、認識された音の訂正をする</title>
+    <link href="http://attic1514.github.io/2017/10/29/Correct-with-Notion-s-handwriting-input/"/>
+    <id>http://attic1514.github.io/2017/10/29/Correct-with-Notion-s-handwriting-input/</id>
+    <published>2017-10-29T12:31:39.000Z</published>
+    <updated>2017-10-30T12:58:24.382Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/nKl2m8aPmqw" frameborder="0" allowfullscreen></iframe></div><p>Notionで、手書き入力をして認識された音をそのまま訂正する様子。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/nKl2m8aPmqw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Notionで、手書
+      
+    
+    </summary>
+    
+      <category term="Notion" scheme="http://attic1514.github.io/categories/Notion/"/>
+    
+      <category term="手書き" scheme="http://attic1514.github.io/categories/Notion/%E6%89%8B%E6%9B%B8%E3%81%8D/"/>
+    
+    
+      <category term="Apple Pencil" scheme="http://attic1514.github.io/tags/Apple-Pencil/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iPad ProとApple PencilとNotionで手書き楽譜入力</title>
+    <link href="http://attic1514.github.io/2017/10/29/notion-handwriting-with-ipad-and-apple-pencil/"/>
+    <id>http://attic1514.github.io/2017/10/29/notion-handwriting-with-ipad-and-apple-pencil/</id>
+    <published>2017-10-29T02:20:09.000Z</published>
+    <updated>2017-10-30T12:58:28.866Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/OqCuy6-k0-Y" frameborder="0" allowfullscreen></iframe></div><p>手書き入力がすごい。手書き入力は<a href="https://myscript.com/?lang=ja" target="_blank" rel="external">MyScript</a>というSDKを使っているようです。</p><h3 id="Notion"><a href="#Notion" class="headerlink" title="Notion"></a>Notion</h3><p><a href="https://itunes.apple.com/jp/app/notion/id475820434?mt=8" target="_blank" rel="external">https://itunes.apple.com/jp/app/notion/id475820434?mt=8</a></p><p>アプリ内課金で手書き入力が出来るようになります。また、デフォルトでは楽器の音色が少ないので、アプリ内課金で追加する必要があります。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/OqCuy6-k0-Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;手書き入力がすごい。
+      
+    
+    </summary>
+    
+      <category term="Notion" scheme="http://attic1514.github.io/categories/Notion/"/>
+    
+      <category term="手書き" scheme="http://attic1514.github.io/categories/Notion/%E6%89%8B%E6%9B%B8%E3%81%8D/"/>
+    
+    
+      <category term="Apple Pencil" scheme="http://attic1514.github.io/tags/Apple-Pencil/"/>
+    
+  </entry>
+  
+</feed>
