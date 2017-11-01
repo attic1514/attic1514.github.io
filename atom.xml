@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   <link href="http://pubsubhubbub.appspot.com" rel="hub"/>
   <link href="http://attic1514.github.io/"/>
-  <updated>2017-10-30T12:58:24.382Z</updated>
+  <updated>2017-11-01T12:34:21.427Z</updated>
   <id>http://attic1514.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notionの手書き入力で、三連符を入力する</title>
+    <link href="http://attic1514.github.io/2017/11/01/notion-handwriting-triplet/"/>
+    <id>http://attic1514.github.io/2017/11/01/notion-handwriting-triplet/</id>
+    <published>2017-11-01T12:21:35.000Z</published>
+    <updated>2017-11-01T12:34:21.427Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/4pasOO6snCo" frameborder="0" allowfullscreen></iframe></div><p>括弧は上に書いても下に書いても認識してくれます。タイで四分音符とつなげた部分も認識しました。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/4pasOO6snCo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;括弧は上に書いても下
+      
+    
+    </summary>
+    
+      <category term="Notion" scheme="http://attic1514.github.io/categories/Notion/"/>
+    
+      <category term="手書き" scheme="http://attic1514.github.io/categories/Notion/%E6%89%8B%E6%9B%B8%E3%81%8D/"/>
+    
+    
+      <category term="Apple Pencil" scheme="http://attic1514.github.io/tags/Apple-Pencil/"/>
+    
+  </entry>
   
   <entry>
     <title>Notionの手書き入力で、認識された音の訂正をする</title>
