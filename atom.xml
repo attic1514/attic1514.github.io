@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   <link href="http://pubsubhubbub.appspot.com" rel="hub"/>
   <link href="http://attic1514.github.io/"/>
-  <updated>2017-11-01T12:34:21.427Z</updated>
+  <updated>2017-11-05T02:57:22.849Z</updated>
   <id>http://attic1514.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notion手書き入力での小節の増やし方・減らし方</title>
+    <link href="http://attic1514.github.io/2017/11/05/notion-handwriting-barline/"/>
+    <id>http://attic1514.github.io/2017/11/05/notion-handwriting-barline/</id>
+    <published>2017-11-05T02:52:07.000Z</published>
+    <updated>2017-11-05T02:57:22.849Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/UhQjclrh51Y" frameborder="0" allowfullscreen></iframe></div><p>Notionの手書き入力で小節を増やすときは、縦に線を入れます。減らす作業は手書きでは出来ないようです。小節を減らす事はあまりありませんので、手書き入力の誤認識で削除されてしまうよりは、削除されないこの方が良いかもしれません。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/UhQjclrh51Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Notionの手書き
+      
+    
+    </summary>
+    
+      <category term="Notion" scheme="http://attic1514.github.io/categories/Notion/"/>
+    
+      <category term="手書き" scheme="http://attic1514.github.io/categories/Notion/%E6%89%8B%E6%9B%B8%E3%81%8D/"/>
+    
+    
+      <category term="Apple Pencil" scheme="http://attic1514.github.io/tags/Apple-Pencil/"/>
+    
+  </entry>
   
   <entry>
     <title>Notionの手書き入力で、三連符を入力する</title>
